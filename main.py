@@ -1,5 +1,5 @@
 def main():
-	print('This is the main function of this programe. You can do whatever you want')
+	print('This is the main function of this program. Creating a function which will return sum of array.')
 
 if __name__ == '__main__':
 	main()
